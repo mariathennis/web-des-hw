@@ -1,0 +1,3 @@
+What is a directory, and what is its relationship to files?- A directory is the directions for which it holds the nesting of the folders 
+How are VCS useful?- they provide how the website will look 
+Do you have a favorite artistic medium? Why is it your favorite?- Yes, i would say paint on canvas because it allows for free play and creativity to be shown all in one place 
