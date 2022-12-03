@@ -1,5 +1,5 @@
-![screenshot](./images/stylecss.jpeg)
-![screenshot](.images/index.jpe)
+![screenshot](./images/stylecss.jpg)
+![screenshot](./images/index.jpg)
 
 The universal selector is an asterick and its more commonly used when wanting to select the whole document
 The class selector starts with a dot and it will select everything in that document with that class applied to it
