@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Arapey-regular';
+  src: url('../fonts/Arapey-regular.tff') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Arapey-Italic';
+  src: url('../fonts/Arapey-Italic.tff') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Italianno-Regular';
+  src: url('../fonts/Italianno-Regular.tff') format('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Oranienbaum-Regular';
+  src: url('../fonts/Oranienbaum-Regular.tff') format('truetype');
+  font-style: normal;
+}
