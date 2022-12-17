@@ -1,0 +1,162 @@
+#header {
+  background-image: url("../images/treeline.jpg");
+
+
+}
+
+
+h1{
+    color: #CBD9FF;
+    font-family: Arapey-Regular;
+    font-size: 80px;
+    letter-spacing: 0.1em;
+}
+
+.titleBorder{
+  height: 100px;
+  background-color: #CBD9FF;
+  color: #117864;
+  width:200%
+  overflow:auto;
+
+}
+
+#first-bar {
+  letter-spacing:1em;
+  padding:1em;
+}
+
+#title:hover{
+    letter-spacing: 0em;
+    font-weight: 50;
+    color: #white;
+}
+
+.titleBorder:hover{
+  background-color: #CBD9FF;
+  color: #white;
+  text-indent: 4em;
+  font-family: Arapey-regular;
+}
+
+.subtitle{
+    padding-top: 50px;
+    font-size: 50px;
+    margin: auto;
+
+}
+
+.content-paragraph{
+  margin: auto;
+  color: #CBD9FF;
+  font-size:20px;
+  line-height:26px;
+  max-width:640px;
+  font-family:Arapey-Regular
+}
+
+.content-paragraph::first-line{
+  font-size: 30px;
+  font-family: Arapey-regular;
+  line-height: 40px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-left: 500px;
+}
+
+img {
+    border: 20px solid #AED6F1;
+}
+
+/* menu */
+
+header {
+  Background-color: #AED6F1;
+  width:99%;
+  height: 6em;
+  top: 0px;
+  font-family: Arapey-regular;
+  text-align: right;
+  padding-right:1em;
+}
+/* set the layout of the menu */
+.menu-item {
+  display: inline-block;
+  margin: 1em .2em;
+  min-width:6em;
+  text-align:center;
+  background-color: #AED6F1;
+  padding:0.5em 1em;
+  border-radius:0.5em;
+}
+
+.site-name {
+  color: #117864;
+  margin: 1em .2em;
+  min-width:5em;
+  padding: 0.5em 1em;
+  border-radius:1em;
+  letter-spacing:0.2em;
+  float:left;
+  font-weight:bold;
+
+}
+
+/*add a dropdown feature: */
+.dropdown {
+  display:inline-block;
+}
+
+.dropdown-content {
+  display:none;
+  position: absolute;
+  margin: 0.5em 0 0 -1em;
+  color: #117864;
+  background-color: #AED6F1;
+  z-index: 1;
+  border-radius: 0em 0em 1em 1em;
+
+}
+
+.dropdown-content a {
+color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* style dropdown item display: */
+.dropdown-item:hover, .dropdown-item:hover a {
+  color: white;
+  background-color: #AED6F1
+}
+
+.dropdown:hover{
+  border-radius: 1em 1em 0em 0em;
+}
+
+#photos:hover{
+  border-radius:0em 0em 1em 1em;
+}
+
+/*footer*/
+
+footer {
+  width: 100%;
+  background-color: #AED6F1;
+  height: 3em;
+  text-align: center;
+  font-family: Arapey-Regular;
+  padding-top :1em;
+}
+
+#footer-link {
+  color: #333
+  font-weight: bold;
+}
